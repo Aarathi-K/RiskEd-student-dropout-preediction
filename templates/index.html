@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Dropout Prediction</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(120deg, #667eea, #764ba2);
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .card {
+            background: white;
+            width: 400px;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 25px;
+        }
+
+        label {
+            font-weight: 600;
+            font-size: 14px;
+            color: #555;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 6px rgba(102,126,234,0.4);
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 10px;
+            background: #667eea;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background: #5a67d8;
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>🎓 Student Dropout Predictor</h2>
+
+    <form action="/predict" method="POST">
+        <label>Attendance (%)</label>
+        <input type="number" name="attendance" required>
+
+        <label>Average Marks (%)</label>
+        <input type="number" name="avg_marks" required>
+
+        <label>Fee Delay Count</label>
+        <input type="number" name="fee_delay" required>
+
+        <label>Backlogs</label>
+        <input type="number" name="backlogs" required>
+
+        <label>Extracurricular Score (0–10)</label>
+        <input type="number" name="extracurricular" required>
+
+        <button type="submit">Predict Risk</button>
+    </form>
+</div>
+
+</body>
+</html>

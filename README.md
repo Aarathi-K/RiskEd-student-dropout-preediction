@@ -113,16 +113,22 @@ http://127.0.0.1:5000
 #### Screenshots (Add at least 3)
 
 Home page of our website
-<img src="./Screenshot(175).png" width="100%">
+<img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/d38915a6-d589-4f3f-b053-2c86da0f4f50" />
+
+
 
 User entering inputs
-<img src="./Screenshot(176).png" width="100%">
+<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/c92a484c-1760-490b-a9e9-8b8699cfbaf4" />
+
 
 High risk prediction
-<img src="./Screenshot(178).png" width="100%">
+<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/0a5b7e59-b2c3-432c-9f84-ca1e8c35b45d" />
+
 
 Low risk prediction
-<img src="./Screenshot(177).png" width="100%">
+
+<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/ba96188e-04dc-4ba8-8b1d-5b984d76367b" />
+
 
 #### Diagrams
 

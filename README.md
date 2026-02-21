@@ -13,7 +13,7 @@
 - Member 2: Aarathi Krishna - Muthoot Institute of Technology and Science
 
 ### Hosted Project Link
-[mention your project hosted link here]
+(https://github.com/Aarathi-K/RiskEd-student-dropout-preediction.git)
 
 ### Project Description
 RiskEd is a Machine Learning powered web application that predicts whether a student is at risk of dropping out based on academic and behavioral indicators. It provides a risk classification along with a probability score to enable early intervention.
@@ -170,7 +170,7 @@ Prediction Output
 Base URL:
 
 ```
-https://your-render-link.onrender.com
+(https://github.com/Aarathi-K/RiskEd-student-dropout-preediction.git)
 ```
 
 ---

@@ -132,15 +132,18 @@ http://127.0.0.1:5000
 ## Screenshots
 
 ### Screenshot 1 – Home Page
+images/Screenshot(175).png
 
 
 
 ### Screenshot 2 - Prediction of high risk
+images/Screenshot(176).png
+images/Screenshot(178).png
 
 
 
 ### Screenshot 3 – Prediction of low risk
-
+images/Screenshot(177).png
 
 ---
 

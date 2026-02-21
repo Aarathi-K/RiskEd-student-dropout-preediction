@@ -1,87 +1,65 @@
+<p align="center">
+  <img src="./img.png" alt="Project Banner" width="100%">
+</p>
 
-# 🎯 RiskEd – Student Dropout Risk Predictor
-
----
+# [Project Name] 🎯
 
 ## Basic Details
 
-**Team Name:** CodeNova
+### Team Name: CodeNova
 
 ### Team Members
+- Member 1: Swetha C R - Muthoot Institute of Technology and Science
+- Member 2: Aarathi Krishna - Muthoot Institute of Technology and Science
 
-Member 1: Swetha C R – Muthoot Institute of Technology and Science
-Member 2: Aarathi Krishna – Muthoot Institute of Technology and Science
+### Hosted Project Link
+[mention your project hosted link here]
 
----
-
-## 🌐 Hosted Project Link
-
-[https://your-render-link.onrender.com](https://your-render-link.onrender.com)
-
----
-
-# 📌 Project Description
-
+### Project Description
 RiskEd is a Machine Learning powered web application that predicts whether a student is at risk of dropping out based on academic and behavioral indicators. It provides a risk classification along with a probability score to enable early intervention.
 
----
+### The Problem statement
+RiskEd is a Machine Learning powered web application that predicts whether a student is at risk of dropping out based on academic and behavioral indicators. It provides a risk classification along with a probability score to enable early intervention.
 
-# ❗ The Problem Statement
-
-Student dropout is a major challenge in educational institutions.
-Most institutions take action only after students fail or leave.
-
-There is no early-warning predictive system to identify at-risk students.
-
----
-
-# 💡 The Solution
-
+### The Solution
 We built a predictive analytics web app using Logistic Regression that:
 
-* Analyzes attendance, marks, fee delays, backlogs, and extracurricular participation
-* Predicts dropout risk (High / Low)
-* Provides probability percentage
-* Enables early intervention strategies
+  --Analyzes attendance, marks, fee delays, backlogs, and extracurricular participation
+  --Predicts dropout risk (High / Low)
+  --Provides probability percentage
+  --Enables early intervention strategies
 
 This shifts institutions from reactive to predictive decision-making.
 
----
+## Technical Details
+### Technologies/Components Used
 
-# ⚙ Technical Details
+**For Software:**
+🖥 For Software
+Languages Used:
+Python
+HTML
+CSS
 
-## Technologies/Components used
+Frameworks Used:
+Flask
 
-## 🖥 For Software
+Libraries Used:
+pandas
+numpy
+scikit-learn
+pickle
 
-### Languages Used:
+Tools Used:
+VS Code
+Git
+GitHub
 
-* Python
-* HTML
-* CSS
+Render (Deployment)
 
-### Frameworks Used:
+## Features
 
-* Flask
-
-### Libraries Used:
-
-* pandas
-* numpy
-* scikit-learn
-* pickle
-
-### Tools Used:
-
-* VS Code
-* Git
-* GitHub
-* Render (Deployment)
-
----
-
-# 🚀 Features
-
+List the key features of your project:
 Feature 1: Predicts dropout risk using ML
 Feature 2: Displays probability percentage
 Feature 3: Clean, responsive UI
@@ -89,7 +67,7 @@ Feature 4: Deployable on cloud platforms
 
 ---
 
-# 🛠 Implementation
+## Implementation
 
 ## Installation
 
@@ -127,25 +105,26 @@ http://127.0.0.1:5000
 
 ---
 
-# 📸 Project Documentation
 
-## Screenshots
+## Project Documentation
 
-### Screenshot 1 – Home Page
-images/Screenshot(175).png
+### For Software:
 
+#### Screenshots (Add at least 3)
 
+Home page of our website
+<img src="./Screenshot(175).png" width="100%">
 
-### Screenshot 2 - Prediction of high risk
-images/Screenshot(176).png
-images/Screenshot(178).png
+User entering inputs
+<img src="./Screenshot(176).png" width="100%">
 
+High risk prediction
+<img src="./Screenshot(178).png" width="100%">
 
+Low risk prediction
+<img src="./Screenshot(177).png" width="100%">
 
-### Screenshot 3 – Prediction of low risk
-images/Screenshot(177).png
-
----
+#### Diagrams
 
 # 🏗 System Architecture
 
@@ -221,7 +200,7 @@ Displays rendered HTML page with:
 # 🎥 Project Demo
 
 Video:
-(Add YouTube or Drive link)
+[Drive link](https://drive.google.com/file/d/1aIKkHqC1nLGKvGMpMuuugMjHqaMyxhf0/view)
 
 The video demonstrates:
 
